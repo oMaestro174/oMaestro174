@@ -33,7 +33,7 @@ Sou Janei Vieira, também conhecido como oMaestro174 no GitHub. Meu nome de usu�
 
 No meu tempo livre, me dedico a compartilhar conhecimento e contribuir para a comunidade tecnológica, especialmente através da plataforma DIO (Digital Innovation One). A DIO tem sido uma parceira importante no meu desenvolvimento profissional, oferecendo oportunidades para crescimento em diversas áreas da programação e tecnologia.
 
-### Principais Projetos na DIO
+### Principais Projetos
 
 - **[Dio - lab open source](https://github.com/oMaestro174/dio-lab-open-source)**
   - Repositório desenvolvido para fins didáticos, com a disponibilização de materiais de apoio e exercício prático para o lab Contribuindo em um Projeto Open Source no GitHub da Digital Innovation One.
