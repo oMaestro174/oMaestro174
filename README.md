@@ -91,6 +91,9 @@ No meu tempo livre, me dedico a compartilhar conhecimento e contribuir para a co
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=cmxrenato&repo=Projeto-Proz-Restaurante-Italiano&bg_color=122&border_color=30A3DC&show_icons=true&icon_color=50A5DC&title_color=E94D5F&text_color=EEB)](https://github.com/cmxrenato/Projeto-Proz-Restaurante-Italiano)
 
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=omaestro174&bg_color=122&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+
+
 ---
 
 _"O sucesso não é o fim, o fracasso não é fatal: é a coragem de continuar que conta." - Winston Churchill_
