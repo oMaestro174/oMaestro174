@@ -86,15 +86,10 @@ No meu tempo livre, me dedico a compartilhar conhecimento e contribuir para a co
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
+## **Minhas Contribuições**
 
-## **Minhas  Contribuições**
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=omaestro174&repo=dio-lab-open-source&bg_color=122&border_color=30A3DC&show_icons=true&icon_color=50A5DC&title_color=E94D5F&text_color=EEB)](https://github.com/oMaestro174/dio-lab-open-source)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=omaestro174&repo=webhook-notify&bg_color=122&border_color=30A3DC&show_icons=true&icon_color=50A5DC&title_color=E94D5F&text_color=EEB)](https://github.com/oMaestro174/webhook-notify)
+| [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=omaestro174&repo=dio-lab-open-source&bg_color=122&border_color=30A3DC&show_icons=true&icon_color=50A5DC&title_color=E94D5F&text_color=EEB)](https://github.com/oMaestro174/dio-lab-open-source) | [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=omaestro174&repo=webhook-notify&bg_color=122&border_color=30A3DC&show_icons=true&icon_color=50A5DC&title_color=E94D5F&text_color=EEB)](https://github.com/oMaestro174/webhook-notify) |
+|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
 
-
-
-
-
----
 
 _"O sucesso não é o fim, o fracasso não é fatal: é a coragem de continuar que conta." - Winston Churchill_
