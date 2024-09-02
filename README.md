@@ -9,6 +9,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=omaestro174&layout=compact&langs_count=8&bg_color=122&border_color=30A3DC&show_icons=true&icon_color=50A5DC&title_color=E94D5F&text_color=EEB&card_width=300" height="200px" />
 </div>
 
+| ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=omaestro174&bg_color=122&border_color=30A3DC&show_icons=true&icon_color=50A5DC&title_color=E94D5F&text_color=EEB) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=omaestro174&layout=compact&langs_count=8&bg_color=122&border_color=30A3DC&show_icons=true&icon_color=50A5DC&title_color=E94D5F&text_color=EEB) |
+|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
 
 
 
