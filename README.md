@@ -1,13 +1,14 @@
 # JANEI VIEIRA - oMaestro174
 
-<div style="display: flex; justify-content: space-between;">
+<div style="display: flex;">
   <a href="https://github.com/oMaestro174">
-    <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=omaestro174&bg_color=122&border_color=30A3DC&show_icons=true&icon_color=50A5DC&title_color=E94D5F&text_color=EEB" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=omaestro174&bg_color=122&border_color=30A3DC&show_icons=true&icon_color=50A5DC&title_color=E94D5F&text_color=EEB" />
   </a>
   <a href="https://github.com/oMaestro174">
-    <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=omaestro174&layout=compact&langs_count=8&card_width=200&bg_color=122&border_color=30A3DC&show_icons=true&icon_color=50A5DC&title_color=E94D5F&text_color=EEB" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=omaestro174&layout=compact&langs_count=8&card_width=200&bg_color=122&border_color=30A3DC&show_icons=true&icon_color=50A5DC&title_color=E94D5F&text_color=EEB" />
   </a>
 </div>
+
 
 
 ## Conecte-se Comigo
