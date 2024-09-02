@@ -1,10 +1,10 @@
 # JANEI VIEIRA - oMaestro174
 
 <a href="https://github.com/oMaestro174">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=omaestro174&bg_color=122&border_color=30A3DC&show_icons=true&icon_color=50A5DC&title_color=E94D5F&text_color=EEB" />
+  <img height=180em align="center" src="https://github-readme-stats.vercel.app/api?username=omaestro174&bg_color=122&border_color=30A3DC&show_icons=true&icon_color=50A5DC&title_color=E94D5F&text_color=EEB" />
 </a>
 <a href="https://github.com/oMaestro174">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=omaestro174&layout=compact&langs_count=8&card_width=320&bg_color=122&border_color=30A3DC&show_icons=true&icon_color=50A5DC&title_color=E94D5F&text_color=EEB" />
+  <img height=180em align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=omaestro174&layout=compact&langs_count=8&card_width=220&bg_color=122&border_color=30A3DC&show_icons=true&icon_color=50A5DC&title_color=E94D5F&text_color=EEB" />
 </a>
 
 ## Conecte-se Comigo
