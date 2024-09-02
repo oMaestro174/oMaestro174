@@ -83,15 +83,17 @@ No meu tempo livre, me dedico a compartilhar conhecimento e contribuir para a co
 
 ## 📊 GitHub Status
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=oMaestro174&theme=transparent&bg_color=122&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=oMaestro174&show_icons=true&bg_color=122&border_color=30A3DC&title_color=E94D5F&text_color=EEB&icon_color=50A5DC)
 
 ## **Minhas  Contribuições**
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=omaestro174&repo=dio-lab-open-source&bg_color=122&border_color=30A3DC&show_icons=true&icon_color=50A5DC&title_color=E94D5F&text_color=EEB)](https://github.com/oMaestro174/dio-lab-open-source)
 
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=cmxrenato&repo=Projeto-Proz-Restaurante-Italiano&bg_color=122&border_color=30A3DC&show_icons=true&icon_color=50A5DC&title_color=E94D5F&text_color=EEB)](https://github.com/cmxrenato/Projeto-Proz-Restaurante-Italiano)
+## Linguagens Mais Usadas
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=omaestro174&bg_color=122&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oMaestro174&layout=compact&cache_seconds=1800&bg_color=122&border_color=30A3DC&title_color=E94D5F&text_color=EEB&icon_color=50A5DC)
+
+
 
 
 ---
