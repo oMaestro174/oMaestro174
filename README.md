@@ -1,11 +1,13 @@
 # JANEI VIEIRA - oMaestro174
 
-  <a href="https://github.com/oMaestro174">
-    <img height="180em"  width="45%" src="https://github-readme-stats.vercel.app/api?username=omaestro174&bg_color=122&border_color=30A3DC&show_icons=true&icon_color=50A5DC&title_color=E94D5F&text_color=EEB" />
-  </a>
-  <a href="https://github.com/oMaestro174">
-    <img height="181em" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs?username=omaestro174&layout=compact&langs_count=8&bg_color=122&border_color=30A3DC&show_icons=true&icon_color=50A5DC&title_color=E94D5F&text_color=EEB" />
-  </a>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=omaestro174&bg_color=122&border_color=30A3DC&show_icons=true&icon_color=50A5DC&title_color=E94D5F&text_color=EEB)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=omaestro174&layout=compact&langs_count=8&bg_color=122&border_color=30A3DC&show_icons=true&icon_color=50A5DC&title_color=E94D5F&text_color=EEB)
+
+
+<div style="display: flex; align-items: center;">
+  <img src="https://github-readme-stats.vercel.app/api?username=omaestro174&bg_color=122&border_color=30A3DC&show_icons=true&icon_color=50A5DC&title_color=E94D5F&text_color=EEB&card_width=450" height="200px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=omaestro174&layout=compact&langs_count=8&bg_color=122&border_color=30A3DC&show_icons=true&icon_color=50A5DC&title_color=E94D5F&text_color=EEB&card_width=300" height="200px" />
+</div>
 
 
 
@@ -95,6 +97,8 @@ No meu tempo livre, me dedico a compartilhar conhecimento e contribuir para a co
 ## **Minhas  Contribuições**
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=omaestro174&repo=dio-lab-open-source&bg_color=122&border_color=30A3DC&show_icons=true&icon_color=50A5DC&title_color=E94D5F&text_color=EEB)](https://github.com/oMaestro174/dio-lab-open-source)
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=omaestro174&repo=webhook-notify&bg_color=122&border_color=30A3DC&show_icons=true&icon_color=50A5DC&title_color=E94D5F&text_color=EEB)](https://github.com/oMaestro174/webhook-notify)
+
+
 
 
 
