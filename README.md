@@ -1,4 +1,4 @@
-# JANEI VIEIRA - oMaestro174
+# Olá! Eu sou Janei Vieira - oMaestro174 🖐️
 
 | [![oMaestro174's GitHub Stats](https://github-readme-stats.vercel.app/api?username=omaestro174&bg_color=122&border_color=30A3DC&show_icons=true&icon_color=50A5DC&title_color=E94D5F&text_color=EEB)](https://github.com/oMaestro174) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=omaestro174&layout=compact&langs_count=8&bg_color=122&border_color=30A3DC&show_icons=true&icon_color=50A5DC&title_color=E94D5F&text_color=EEB)](https://github.com/oMaestro174) |
 |:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
@@ -6,7 +6,7 @@
 
 
 ## Conecte-se Comigo
-
+[![Site](https://img.shields.io/website?label=taguardado.net&style=for-the-badge&url=https://taguardado.net/)](https://taguardado.net)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/oMaestro174)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/janei-vieira/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:taguardado.net@gmail.com)
@@ -84,7 +84,7 @@ No meu tempo livre, me dedico a compartilhar conhecimento e contribuir para a co
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ## **Minhas Contribuições**
 
