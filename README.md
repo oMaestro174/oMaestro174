@@ -1,15 +1,11 @@
 # JANEI VIEIRA - oMaestro174
 
-<div>
-
-  <a href="https://github.com/oMaestro174">
-   <img height=180em  src="https://github-readme-stats.vercel.app/api?username=oMaestro174&show_icons=true&bg_color=122&border_color=30A3DC&title_color=E94D5F&text_color=EEB&icon_color=50A5DC" />
-
-   <img height=180em src="https://github-readme-stats.vercel.app/api/top-langs?username=omaestro174&layout=compact&langs_count=8&bg_color=122&border_color=30A3DC&title_color=E94D5F&text_color=EEB&icon_color=50A5DC" />
-  
-   </a>
-
-</div>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320" />
+</a>
 
 ## Conecte-se Comigo
 
