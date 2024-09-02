@@ -1,5 +1,14 @@
 # JANEI VIEIRA - oMaestro174
 
+<div>
+<a href="https://github.com/oMaestro174">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=oMaestro174&show_icons=true&bg_color=122&border_color=30A3DC&title_color=E94D5F&text_color=EEB&icon_color=50A5DC" />
+</a>
+<a href="https://github.com/oMaestro174">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=omaestro174&layout=compact&langs_count=8&card_width=320&bg_color=122&border_color=30A3DC&title_color=E94D5F&text_color=EEB&icon_color=50A5DC" />
+</a>
+</div>
+
 ## Conecte-se Comigo
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/oMaestro174)
@@ -81,18 +90,10 @@ No meu tempo livre, me dedico a compartilhar conhecimento e contribuir para a co
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
-## 📊 GitHub Status
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=oMaestro174&show_icons=true&bg_color=122&border_color=30A3DC&title_color=E94D5F&text_color=EEB&icon_color=50A5DC)
 
 ## **Minhas  Contribuições**
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=omaestro174&repo=dio-lab-open-source&bg_color=122&border_color=30A3DC&show_icons=true&icon_color=50A5DC&title_color=E94D5F&text_color=EEB)](https://github.com/oMaestro174/dio-lab-open-source)
-
-
-## Linguagens Mais Usadas
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oMaestro174&layout=compact&cache_seconds=1800&bg_color=122&border_color=30A3DC&title_color=E94D5F&text_color=EEB&icon_color=50A5DC)
-
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=omaestro174&repo=webhook-notify&bg_color=122&border_color=30A3DC&show_icons=true&icon_color=50A5DC&title_color=E94D5F&text_color=EEB)](https://github.com/oMaestro174/webhook-notify)
 
 
 
