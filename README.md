@@ -27,13 +27,13 @@ Sou Janei Vieira, também conhecido como oMaestro174 no GitHub. Meu nome de usu�
 
 ### Formação Complementar
 
-- **💻 Programação com foco em Front-end** - Proz Educação
-- **🚀 Bootcamp Microsoft Azure Cloud Native - DIO
+- 💻 Programação com foco em Front-end** - Proz Educação
+- 🚀 Bootcamp Microsoft Azure Cloud Native - DIO
 
 ### Certificações Recentes
-- **🏅 Segurança de Sistemas Linux 
-- **🏅 HCIP-Cloud Service Solutions Architect V3.0** - Huawei, Agosto de 2024
-- **🏅 Capacitação e Extensão Universitária em Inteligência Artificial** - Huawei e UFRR, Agosto de 2024
+- 🏅 **Segurança de Sistemas Linux** 
+- 🏅 **HCIP-Cloud Service Solutions Architect V3.0** - Huawei, Agosto de 2024
+- 🏅 **Capacitação e Extensão Universitária em Inteligência Artificial** - Huawei e UFRR, Agosto de 2024
 
 ## 💼 Contribuições e Projetos
 
