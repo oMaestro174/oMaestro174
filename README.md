@@ -16,31 +16,31 @@ Sou Janei Vieira, também conhecido como oMaestro174 no GitHub. Meu nome de usu�
 
 ### Formação Acadêmica e Especializações
 
-- **🥷 MBA em Gestão Ágil de Projetos e Processos** (em andamento)
-- **💻 Especialização em Redes e Computação Distribuída** (em andamento)
-- **☁️ Especialização em Computação em Nuvem (Cloud Computing)** (2023 - 2025)
-- **📊 Especialização em Big Data (Ciência de Dados)** (2023 - 2025)
-- **👨‍🏫 Especialização em Docência em Ciência e Tecnologia da Informação** (2021 - 2023)
-- **📈 Especialização em Marketing Digital** (2021 - 2023)
-- **🎓 Graduação em Gestão da Tecnologia da Informação** (2015 - 2019)
-- **🛠️ Curso Técnico em Redes de Computadores** (2015 - 2017)
+ **🥷 MBA em Gestão Ágil de Projetos e Processos** (em andamento)  
+ **💻 Especialização em Redes e Computação Distribuída** (em andamento)  
+ **☁️ Especialização em Computação em Nuvem (Cloud Computing)** (2023 - 2025)  
+ **📊 Especialização em Big Data (Ciência de Dados)** (2023 - 2025)  
+ **👨‍🏫 Especialização em Docência em Ciência e Tecnologia da Informação** (2021 - 2023)  
+ **📈 Especialização em Marketing Digital** (2021 - 2023)  
+ **🎓 Graduação em Gestão da Tecnologia da Informação** (2015 - 2019)  
+ **🛠️ Curso Técnico em Redes de Computadores** (2015 - 2017)  
 
 ### Formação Complementar
 
-- 💻 Programação com foco em Front-end** - Proz Educação
-- 🚀 Bootcamp Microsoft Azure Cloud Native - DIO
+ 💻 Programação com foco em Front-end** - Proz Educação  
+ 🚀 Bootcamp Microsoft Azure Cloud Native - DIO  
 
 ### Certificações Recentes
-- 🏅 **Segurança de Sistemas Linux** 
-- 🏅 **HCIP-Cloud Service Solutions Architect V3.0** - Huawei, Agosto de 2024
-- 🏅 **Capacitação e Extensão Universitária em Inteligência Artificial** - Huawei e UFRR, Agosto de 2024
+ 🏅 **Segurança de Sistemas Linux**  
+ 🏅 **HCIP-Cloud Service Solutions Architect V3.0** - Huawei, Agosto de 2024  
+ 🏅 **Capacitação e Extensão Universitária em Inteligência Artificial** - Huawei e UFRR, Agosto de 2024  
 
 ## 💼 Contribuições e Projetos
 
 No meu tempo livre, me dedico a compartilhar conhecimento e contribuir para a comunidade tecnológica, especialmente através da plataforma DIO (Digital Innovation One). A DIO tem sido uma parceira importante no meu desenvolvimento profissional, oferecendo oportunidades para crescimento em diversas áreas da programação e tecnologia.
 
 ### Principais Projetos
-- **[Confira](https://github.com/oMaestro174?tab=repositories)**
+**[Confira](https://github.com/oMaestro174?tab=repositories)**  
   
 
 
