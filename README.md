@@ -16,21 +16,22 @@ Sou Janei Vieira, também conhecido como oMaestro174 no GitHub. Meu nome de usu�
 
 ### Formação Acadêmica e Especializações
 
-- **🎓 MBA em Gestão Ágil de Projetos e Processos** (em andamento)
-- **☁️ Especialização em Computação em Nuvem (Cloud Computing)** (em andamento)
-- **📊 Especialização em Big Data (Ciência de Dados)** (em andamento)
-- **🧑‍🏫 Especialização em Docência em Ciência e Tecnologia da Informação** (2021 - 2023)
+- **🥷 MBA em Gestão Ágil de Projetos e Processos** (em andamento)
+- **💻 Especialização em Redes e Computação Distribuída** (em andamento)
+- **☁️ Especialização em Computação em Nuvem (Cloud Computing)** (2023 - 2025)
+- **📊 Especialização em Big Data (Ciência de Dados)** (2023 - 2025)
+- **👨‍🏫 Especialização em Docência em Ciência e Tecnologia da Informação** (2021 - 2023)
 - **📈 Especialização em Marketing Digital** (2021 - 2023)
 - **🎓 Graduação em Gestão da Tecnologia da Informação** (2015 - 2019)
 - **🛠️ Curso Técnico em Redes de Computadores** (2015 - 2017)
 
 ### Formação Complementar
 
-- **💻 Programação com foco em Front-end** (em andamento) - Proz Educação
-- **🚀 Bootcamp XP Inc. - Full Stack Developer** (em andamento) - DIO
+- **💻 Programação com foco em Front-end** - Proz Educação
+- **🚀 Bootcamp Microsoft Azure Cloud Native - DIO
 
 ### Certificações Recentes
-
+- **🏅 Segurança de Sistemas Linux 
 - **🏅 HCIP-Cloud Service Solutions Architect V3.0** - Huawei, Agosto de 2024
 - **🏅 Capacitação e Extensão Universitária em Inteligência Artificial** - Huawei e UFRR, Agosto de 2024
 
@@ -39,12 +40,7 @@ Sou Janei Vieira, também conhecido como oMaestro174 no GitHub. Meu nome de usu�
 No meu tempo livre, me dedico a compartilhar conhecimento e contribuir para a comunidade tecnológica, especialmente através da plataforma DIO (Digital Innovation One). A DIO tem sido uma parceira importante no meu desenvolvimento profissional, oferecendo oportunidades para crescimento em diversas áreas da programação e tecnologia.
 
 ### Principais Projetos
-
-- **[Dio - lab open source](https://github.com/oMaestro174/dio-lab-open-source)**
-  - Repositório desenvolvido para fins didáticos, com a disponibilização de materiais de apoio e exercício prático para o lab Contribuindo em um Projeto Open Source no GitHub da Digital Innovation One.
-  
-- **[Proz - Restaurante Italiano](https://github.com/cmxrenato/Projeto-Proz-Restaurante-Italiano)**
-  - repositório do Tutti Nostri Ristorante! Este projeto contém o código fonte do site do restaurante, desenvolvido para proporcionar uma experiência agradável e intuitiva aos visitantes. O site inclui páginas para acessar o cardápio, saber mais sobre o restaurante, entrar em contato, reservar uma mesa, e muito mais.
+- **[Confira](https://github.com/oMaestro174?tab=repositories)**
   
 
 
