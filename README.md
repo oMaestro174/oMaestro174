@@ -32,10 +32,13 @@ Sou Janei Vieira, também conhecido como oMaestro174 no GitHub. Meu nome de usu�
 
 ### Certificações Recentes
 
- 🏅 **AWS Certified Cloud Practitioner**
- 🏅 **Segurança de Sistemas Linux**  
- 🏅 **HCIP-Cloud Service Solutions Architect V3.0** - Huawei, Agosto de 2024**  
- 🏅 **Capacitação e Extensão Universitária em Inteligência Artificial** - Huawei e UFRR, Agosto de 2024
+🏅 **AWS Certified Cloud Practitioner**  
+
+🏅 **Segurança de Sistemas Linux**  
+
+🏅 **HCIP-Cloud Service Solutions Architect V3.0**  - Huawei, Agosto de 2024 
+
+🏅 **Capacitação e Extensão Universitária em Inteligência Artificial** - Huawei e UFRR, Agosto de 2024
  
 
 ## 💼 Contribuições e Projetos
