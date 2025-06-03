@@ -25,16 +25,24 @@ Sou Janei Vieira, também conhecido como oMaestro174 no GitHub. Meu nome de usu�
  **🎓 Graduação em Gestão da Tecnologia da Informação** (2015 - 2019)  
  **🛠️ Curso Técnico em Redes de Computadores** (2015 - 2017)  
 
-### Formação Complementar
+### Bootcamps Finalizados
 
- 💻 Programação com foco em Front-end** - Proz Educação  
- 🚀 Bootcamp Microsoft Azure Cloud Native - DIO  
+ 🚀 Programação com foco em Front-end** - Proz Educação  
+ 🚀 [Microsoft Azure Cloud Native - DIO](https://web.dio.me/track/microsoft-azure-cloud-native?ref=A8BBEB0209364E26BC9D89F3A9C879C2)  
+ 🚀 [Microsoft AI for Tech - OpenAI Services - DIO](https://web.dio.me/track/microsoft-azure-open-ai?ref=A8BBEB0209364E26BC9D89F3A9C879C2)  
+ 🚀 [Formação AWS CLF-02 Practitioner - DIO](https://web.dio.me/track/formacao-aws-clf-02?ref=A8BBEB0209364E26BC9D89F3A9C879C2)
+
+ ### Bootcamps em Andamento
+
+ 💻 [WEX - End to End Engineering - DIO](https://web.dio.me/track/wex-end-end-engineering?ref=A8BBEB0209364E26BC9D89F3A9C879C2)   
+ 💻 [Santander 2025 - Back-End com Python - DIO](https://web.dio.me/track/santander-2025-python-back-end?ref=A8BBEB0209364E26BC9D89F3A9C879C2)  
+ 💻 [Santander - Cibersegurança #2 - DIO](https://web.dio.me/track/santander-ciberseguranca-2024?ref=A8BBEB0209364E26BC9D89F3A9C879C2)
 
 ### Certificações Recentes
 
-🏅 **AWS Certified Cloud Practitioner**  
+🏅 [**AWS Certified Cloud Practitioner**](https://www.credly.com/badges/070b831a-fc82-4416-9423-3ec02060e6a7/linked_in_profile)
 
-🏅 **Segurança de Sistemas Linux**  
+🏅 [**Segurança de Sistemas Linux**](https://certs.ibsec.com.br/?cert_hash=531746d8c7e7dc46)
 
 🏅 **HCIP-Cloud Service Solutions Architect V3.0**  - Huawei, Agosto de 2024 
 
