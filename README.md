@@ -12,18 +12,24 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:taguardado.net@gmail.com)
 ## 🎓 Sobre Mim
 
-Sou Janei Vieira, também conhecido como oMaestro174 no GitHub. Meu nome de usuário é uma homenagem a um grande amigo que, infelizmente, faleceu devido à COVID-19. Ele era conhecido como "oMaestro", e eu adicionei "174" em referência à BR que me leva até minha família. Este perfil é dedicado à memória dele e ao compromisso que compartilho em criar e contribuir para a comunidade de tecnologia.
+Sou profissional de TI com forte atuação em **infraestrutura de redes**, **computação em nuvem** e **automação com DevOps**. Atualmente, coordeno o setor de Administração de Redes e Comunicação de Dados do Governo de Roraima.
 
-### Formação Acadêmica e Especializações
+Tenho certificações como **AWS Cloud Practitioner (CLF-C02)**, **Segurança em Linux** e **Lean Seis Sigma Yellow Belt**. Também desenvolvo sistemas para internet e integro práticas de DevOps em ambientes produtivos com containers e pipelines automatizados em Kubernetes.
 
- **🥷 MBA em Gestão Ágil de Projetos e Processos** (em andamento)  
- **💻 Especialização em Redes e Computação Distribuída** (em andamento)  
- **☁️ Especialização em Computação em Nuvem (Cloud Computing)** (2023 - 2025)  
- **📊 Especialização em Big Data (Ciência de Dados)** (2023 - 2025)  
- **👨‍🏫 Especialização em Docência em Ciência e Tecnologia da Informação** (2021 - 2023)  
- **📈 Especialização em Marketing Digital** (2021 - 2023)  
- **🎓 Graduação em Gestão da Tecnologia da Informação** (2015 - 2019)  
- **🛠️ Curso Técnico em Redes de Computadores** (2015 - 2017)  
+## 📚 Formação Acadêmica e Especializações
+
+ - **🥷 MBA em Gestão Ágil de Projetos e Processos** (preparando TCC)  - ITEAM
+ - Especializações em andamento:
+   - **🚀 Engenharia DevOps** – IFMT
+   - **🔌 Computação Aplicada à Indústria 4.0 com foco em IoT** – UFRR
+   - **💻 Redes e Computação Distribuída**  – IFMT
+ - Especializações em Concluídas:
+   - **☁️ Computação em Nuvem (Cloud Computing)** (2023 - 2025)  
+   - **📊 Big Data (Ciência de Dados)** (2023 - 2025)  
+   - **👨‍🏫 Docência em Ciência e Tecnologia da Informação** (2021 - 2023)
+   - **📈 Marketing Digital** (2021 - 2023)  
+ - **🎓 Graduação em Gestão da Tecnologia da Informação** (2015 - 2019) – UNIP  
+ - **🛠️ Técnico em Redes de Computadores** (2015 - 2017) – CETAM
 
 ### Bootcamps Finalizados
 
@@ -49,9 +55,29 @@ Sou Janei Vieira, também conhecido como oMaestro174 no GitHub. Meu nome de usu�
 🏅 **Capacitação e Extensão Universitária em Inteligência Artificial** - Huawei e UFRR, Agosto de 2024
  
 
+## 📚 Atualmente estudando e praticando
+
+- 🐳 Containers e orquestração com **Docker e Kubernetes com Rancher (RKE2)**
+- ☁️ **AWS, Azure e Huawei Cloud** para arquiteturas híbridas
+-  **GitHub Actions e integração com Azure/AWS**
+- 📈 Monitoramento e Observabilidade com **Zabbix**, **Grafana** e **Prometheus**
+- 🔐 Boas práticas de segurança em ambientes **Linux**
+- 🤖 **Automação com Python e Shell Script**
+- 🌐 Projetos IoT com Arduino e verificação formal de sistemas embarcados
+- 🛠️ Integração de **agentes de IA com n8n**
+
 ## 💼 Contribuições e Projetos
 
 No meu tempo livre, me dedico a compartilhar conhecimento e contribuir para a comunidade tecnológica, especialmente através da plataforma DIO (Digital Innovation One). A DIO tem sido uma parceira importante no meu desenvolvimento profissional, oferecendo oportunidades para crescimento em diversas áreas da programação e tecnologia.
+
+### 🔧 Aqui no GitHub, compartilho projetos relacionados a:
+- Automação de infraestrutura (scripts, containers, pipelines)
+- Segurança em sistemas Linux
+- Computação em nuvem (AWS, Azure)
+- Desenvolvimento de sistemas embarcados e IoT
+- Integração de agentes de IA em ambientes híbridos
+
+
 
 ### Principais Projetos
 **[Confira](https://github.com/oMaestro174?tab=repositories)**  
