@@ -17,17 +17,21 @@ Sou profissional de TI com forte atuação em **infraestrutura de redes**, **com
 Tenho certificações como **AWS Cloud Practitioner (CLF-C02)**, **Segurança em Linux** e **Lean Seis Sigma Yellow Belt**. Também desenvolvo sistemas para internet e integro práticas de DevOps em ambientes produtivos com containers e pipelines automatizados em Kubernetes.
 
 ## 📚 Formação Acadêmica e Especializações
-
- - **🥷 MBA em Gestão Ágil de Projetos e Processos** (preparando TCC)  - ITEAM
+ 
+ - **🥷 Mestrado Profissional em Propriedade Intelectual e Transferência de Tecnologia para Inovação** (em andamento)  - UFRR
  - Especializações em andamento:
    - **🚀 Engenharia DevOps** – IFMT
-   - **🔌 Computação Aplicada à Indústria 4.0 com foco em IoT** – UFRR
-   - **💻 Redes e Computação Distribuída**  – IFMT
+ 
  - Especializações em Concluídas:
+   - **💻 Redes e Computação Distribuída**  – (2025-2026) IFMT
+   - **🔌 Computação Aplicada à Indústria 4.0 com foco em IoT** – (2025-2026) UFRR
+   - **💼 Aspectos Legais da Propriedade Intelectual** (2025-2025)  
+   - **🥷 MBA em Gestão Ágil de Projetos e Processos** (2024-2025)  - ITEAM 
    - **☁️ Computação em Nuvem (Cloud Computing)** (2023 - 2025)  
    - **📊 Big Data (Ciência de Dados)** (2023 - 2025)  
    - **👨‍🏫 Docência em Ciência e Tecnologia da Informação** (2021 - 2023)
-   - **📈 Marketing Digital** (2021 - 2023)  
+   - **📈 Marketing Digital** (2021 - 2023)
+      
  - **🎓 Graduação em Gestão da Tecnologia da Informação** (2015 - 2019) – UNIP  
  - **🛠️ Técnico em Redes de Computadores** (2015 - 2017) – CETAM
 
